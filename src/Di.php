@@ -82,8 +82,13 @@ class Di
         }
     }
     
+    /**
+     * Sets up and returns all the objects we'll use
+     *
+     * @return \Pimple\Container
+     */
     public function getServices()
     {
-        
+        return $this->container;
     }
 }
