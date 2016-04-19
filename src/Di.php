@@ -7,7 +7,7 @@
  * @version		1.0
  * @filesource 	./Di.php
  */
-namespace JaegerApp;
+namespace JaegerApp; 
 
 use Pimple\Container;
 
