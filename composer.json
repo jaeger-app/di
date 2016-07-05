@@ -9,10 +9,10 @@
 	"require-dev": {
 		"phpunit/phpunit": "4.*"
 	},
-    "keywords": [
-        "dependency-injection",
-        "di"
-    ],		
+	"keywords": [
+		"dependency-injection",
+		"di"
+	],		
 	"authors": [{
 		"name": "Eric Lamb",
 		"email": "eric@mithra62.com"
